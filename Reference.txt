@@ -1,0 +1,9 @@
+Real-time Facial Emotion Recognition using Deep Learning and OpenCV[Link:https://fuyofulo.medium.com/real-time-facial-emotion-recognition-using-deep-learning-and-opencv-30a331d39cf1]
+
+Facial Expression Recognition with Visual Transformers and Attentional Selective Fusion[Link:https://arxiv.org/pdf/2103.16854]
+
+Real Time Emotion Analysis Using Deep Learning for Education, Entertainment, and Beyond[Link:https://arxiv.org/html/2407.04560v1]
+
+Facial expression recognition via ResNet-50 [Link:https://www.sciencedirect.com/science/article/pii/S2666307421000073]
+
+A Comparative Analysis of CNNs and ResNet50 for Facial Emotion Recognition[Link:https://etasr.com/index.php/ETASR/article/download/9849/4640/43322]
